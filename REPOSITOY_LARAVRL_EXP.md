@@ -134,7 +134,7 @@ abstract class BaseRepository
 
 ```
 
-# vi du  RoleRepository.php
+# ví dụ  RoleRepository.php
 
 ```php 
 <?php
