@@ -1,3 +1,4 @@
+```javascript
 const Admin = (function () {
     let modules = {};
 
@@ -59,3 +60,5 @@ $(document).ready(function () {
         Admin.trimInput($(this), "email")
     })
 });
+
+```
